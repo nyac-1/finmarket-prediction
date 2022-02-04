@@ -1,5 +1,6 @@
-<h1>Repository for all finmarket prediction/forecast</h1>
-<h3>Primary Use Cases</h3>
-<ol>
-	<l1>1. Image Processing Research</li>
-</ol>
+# FinMarket
+
+FinMarket is a project that houses tests and experiments conducted on financial market data. At inception the main purpose of the project is to create a piple line for the visual time series paper.
+
+## Projects
+- Visual Timeseries Paper
